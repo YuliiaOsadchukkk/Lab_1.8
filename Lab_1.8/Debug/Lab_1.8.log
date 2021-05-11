@@ -1,0 +1,7 @@
+﻿  Bill.cpp
+F:\ООП\Тема 1\Lab_1.8\Lab_1.8\Lab_1.8\Bill.cpp(156,15): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 1\Lab_1.8\Lab_1.8\Lab_1.8\Bill.cpp(208,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+F:\ООП\Тема 1\Lab_1.8\Lab_1.8\Lab_1.8\Bill.cpp(113): warning C4715: 'Bill::Time::IsLaterThan': not all control paths return a value
+  Lab_1.8.vcxproj -> F:\ООП\Тема 1\Lab_1.8\Lab_1.8\Debug\Lab_1.8.exe

@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest_1.8.cpp
+F:\ООП\Тема 1\Lab_1.8\Lab_1.8\Lab_1.8\Bill.cpp(156,15): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 1\Lab_1.8\Lab_1.8\Lab_1.8\Bill.cpp(208,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\ООП\Тема 1\Lab_1.8\Lab_1.8\Lab_1.8\Bill.cpp(113): warning C4715: 'Bill::Time::IsLaterThan': not all control paths return a value
+     Creating library F:\ООП\Тема 1\Lab_1.8\Lab_1.8\Debug\UnitTest_1.8.lib and object F:\ООП\Тема 1\Lab_1.8\Lab_1.8\Debug\UnitTest_1.8.exp
+  UnitTest_1.8.vcxproj -> F:\ООП\Тема 1\Lab_1.8\Lab_1.8\Debug\UnitTest_1.8.dll
